@@ -23,7 +23,6 @@ body {
 }
 
 .product {
-  height: 20rem;
   border: 1px rgb(255, 0, 0) solid;
   margin: 1rem;
 }
@@ -39,4 +38,8 @@ main {
 .product-info {
   padding: 1rem;
   text-align: center;
+}
+
+.img-large {
+  height: 100%;
 }
