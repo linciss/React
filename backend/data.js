@@ -18,6 +18,12 @@ const data = {
       slug: 'egg',
       protein: 6,
     },
+    {
+      name: 'Chicken Breast',
+      image: '/images/chicken-breast.jpg',
+      slug: 'chicken-breast',
+      protein: 31,
+    },
   ],
 };
 export default data;
